@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1442" height="521">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="2.5661011" y="218.45703" width="1438.7041" height="3550.8015" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="476.17078" y1="-115.93843" x2="1070.5458" y2="554.61578">
+			<stop offset="0" stop-color="rgb(77,53,226)"/>
+			<stop offset="1" stop-color="rgb(32,212,255)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="url(#gradient_0)" stroke="none" transform="matrix(0.9991 0 0 0.9991 0.567871 0.652344)" d="M4.54747e-13 0L4.00006e-13 298.021C47.9493 355.106 102.05 327.159 153.464 371.306C204.878 415.452 200.078 429.85 268.122 459.563C336.166 489.276 395.693 449.502 487.514 475.495C579.335 501.487 626.433 520.486 727.818 520.486C829.203 520.486 857.819 481.305 948.134 459.563C1038.45 437.821 1079.97 459.563 1140.44 459.563C1200.91 459.563 1240.73 458.649 1285.49 394.814C1330.25 330.979 1409.12 340.277 1441.18 287.96L1441.18 0L4.54747e-13 0Z"/>
+	</g>
+</svg>
