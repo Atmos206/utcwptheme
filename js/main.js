@@ -16,7 +16,6 @@ $(document).ready(function () {
     var $featuredInner = $featuredContainer.find('.featured-inner');
 
     $('body').on('click', '.featured-back', function () {
-        console.log('!')
         var $items = $featuredInner.find('.featured-item');
         var currentLeft = parseInt($featuredInner.css('left'));
 
@@ -48,4 +47,8 @@ $(document).ready(function () {
             $featuredInner.css('left', (currentLeft - currentWidth - 25) + 'px')
         }
     });
+
+    $('body').on('click', '#nav-links-btn', function () {
+        $('#nav-links').slideToggle(300);
+    })
 })
